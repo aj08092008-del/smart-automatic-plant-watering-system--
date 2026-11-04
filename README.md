@@ -1,2 +1,1 @@
-# smart-automatic-plant-watering-system--
-Arduino base smart automatic plant watering system 
+smart automatic plant watering system 
